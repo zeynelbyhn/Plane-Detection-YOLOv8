@@ -24,5 +24,5 @@ The goal of this project is to train and test a state-of-the-art object detectio
 *Developed for research and educational purposes.*
 ![Model Sonucu](results.png)
 ![Model Sonucu](indir.png)
-![Model Sonucu](indir(1).png)
-![Model Sonucu](indir(2).png)
+![Model Sonucu](indir (1).png)
+![Model Sonucu](indir (2).png)
